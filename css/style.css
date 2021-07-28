@@ -4,7 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-header{
+.banner-section{
     background-color: #264653;
 }
 .purs{
@@ -14,4 +14,7 @@ header{
 }
 .icons{
     color: #E77C40;
+}
+.gray-bike{
+    filter: grayscale(1)
 }
