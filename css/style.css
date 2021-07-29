@@ -4,17 +4,23 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* banner part */
 .banner-section{
     background-color: #264653;
 }
-.purs{
+.purs-btn{
     background-color: #E76F51;
-    color: white;
-    
+    color: white;    
 }
 .icons{
     color: #E77C40;
 }
+/* feature part */
 .gray-bike{
     filter: grayscale(1)
+}
+/* bike parts part */
+.partches:hover{
+    background-color: darkgray;
+    color: white;
 }
